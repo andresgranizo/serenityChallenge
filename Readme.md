@@ -23,7 +23,7 @@ This project demonstrates an End-to-End (E2E) automation test using Serenity BDD
 
 1. **Clone the repository**:
     ```sh
-    git clone <repository_url>
+    git clone (https://github.com/andresgranizo/serenityChallenge.git)
     cd serenity-mvc-example
     ```
 
